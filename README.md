@@ -15,3 +15,13 @@ This is Ryan's first Github Desktop change
 #### Run
 
     ./hello.o
+
+### Java
+
+#### Compile
+
+    javac HelloWorld.java
+
+#### Run
+
+    java HelloWorld
