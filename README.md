@@ -12,7 +12,7 @@ This is Ryan's first Github Desktop change
 
     g++ HelloWorld.cpp -o hello.o
 
-#### Run
+#### Run on C++ supported command line
 
     ./hello.o
 
@@ -22,9 +22,15 @@ This is Ryan's first Github Desktop change
 
     javac HelloWorld.java
 
-#### Run
+#### Run on Java supported command line
 
     java HelloWorld
+
+### Python3
+
+#### Run on Python3 supported command line
+
+    python HelloWorld.py
 
 ### Ruby
 
