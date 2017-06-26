@@ -25,3 +25,9 @@ This is Ryan's first Github Desktop change
 #### Run
 
     java HelloWorld
+
+### Ruby
+
+#### Run on Ruby supported command line
+
+    ruby HelloWorld.rb
