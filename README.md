@@ -4,11 +4,11 @@ This is Ryan's first Github README
 
 This is Ryan's first Github Desktop change
 
-## Repository for hosting Hello_World code for multiple languages
+### Repository for hosting Hello_World code for multiple languages
 
-### C++
+## C++
 
-#### Compile
+#### Compile on C++ supported command line
 
     g++ HelloWorld.cpp -o hello.o
 
@@ -16,9 +16,9 @@ This is Ryan's first Github Desktop change
 
     ./hello.o
 
-### Java
+## Java
 
-#### Compile
+#### Compile on Java supported command line
 
     javac HelloWorld.java
 
@@ -26,13 +26,13 @@ This is Ryan's first Github Desktop change
 
     java HelloWorld
 
-### Python3
+## Python3
 
 #### Run on Python3 supported command line
 
     python HelloWorld.py
 
-### Ruby
+## Ruby
 
 #### Run on Ruby supported command line
 
